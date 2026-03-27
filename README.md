@@ -1,2 +1,2 @@
 # meus-estudos
-aprendendo e guardando... Hello World
+Aprendendo programação e registrando minha evolução 🚀
